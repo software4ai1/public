@@ -1,6 +1,6 @@
 {
-  "version": 16,
-  "updatedAt": "2026-11-22T18:13:44Z",
+  "version": 17,
+  "updatedAt": "2026-11-22T18:20:30Z",
   "channels": [
     {
       "id": "sonic_gang",
@@ -60,339 +60,6 @@
     }
   ],
   "videos": [
-    {
-      "videoId": "CD1cN6Guuio",
-      "title": "Motu Patlu | मोटू पतलू | Episode 1 | Jon Banega Don",
-      "channelId": "sonic_gang",
-      "channelName": "Sonic Gang",
-      "category": "Cartoons",
-      "isFeatured": false,
-      "isLocked": false,
-      "isActive": true,
-      "publishedAt": "2026-11-22T18:11:50Z"
-    },
-    {
-      "videoId": "vYM9wrC-Kmw",
-      "title": "Motu Patlu | मोटू पतलू | Episode 3 | Scooter Race",
-      "channelId": "sonic_gang",
-      "channelName": "Sonic Gang",
-      "category": "Cartoons",
-      "isFeatured": false,
-      "isLocked": false,
-      "isActive": true,
-      "publishedAt": "2026-11-22T18:10:50Z"
-    },
-    {
-      "videoId": "qk3gzCUE6SE",
-      "title": "Motu Patlu | मोटू पतलू | Episode 4 | Angry Clouds",
-      "channelId": "sonic_gang",
-      "channelName": "Sonic Gang",
-      "category": "Cartoons",
-      "isFeatured": false,
-      "isLocked": false,
-      "isActive": true,
-      "publishedAt": "2026-11-22T18:09:50Z"
-    },
-    {
-      "videoId": "ROVq-q6SQGU",
-      "title": "Motu Patlu | मोटू पतलू | Episode 5 | Baby Dinosaur",
-      "channelId": "sonic_gang",
-      "channelName": "Sonic Gang",
-      "category": "Cartoons",
-      "isFeatured": false,
-      "isLocked": false,
-      "isActive": true,
-      "publishedAt": "2026-11-22T18:08:50Z"
-    },
-    {
-      "videoId": "_wYbtbiolnE",
-      "title": "Motu Patlu | मोटू पतलू | Episode 6 | Antariksh Yatra",
-      "channelId": "sonic_gang",
-      "channelName": "Sonic Gang",
-      "category": "Cartoons",
-      "isFeatured": false,
-      "isLocked": false,
-      "isActive": true,
-      "publishedAt": "2026-11-22T18:07:50Z"
-    },
-    {
-      "videoId": "capogEY2_Xo",
-      "title": "Motu Patlu | मोटू पतलू | Episode 10 | Diamond Robbery",
-      "channelId": "sonic_gang",
-      "channelName": "Sonic Gang",
-      "category": "Cartoons",
-      "isFeatured": false,
-      "isLocked": false,
-      "isActive": true,
-      "publishedAt": "2026-11-22T18:06:50Z"
-    },
-    {
-      "videoId": "7tXeX48xDRE",
-      "title": "Motu Patlu | मोटू पतलू | Episode 24 | Motu the Alien",
-      "channelId": "sonic_gang",
-      "channelName": "Sonic Gang",
-      "category": "Cartoons",
-      "isFeatured": false,
-      "isLocked": false,
-      "isActive": true,
-      "publishedAt": "2026-11-22T18:05:50Z"
-    },
-    {
-      "videoId": "ScYf3QU26Dc",
-      "title": "Motu Patlu | मोटू पतलू | Episode 25 | Future Camera",
-      "channelId": "sonic_gang",
-      "channelName": "Sonic Gang",
-      "category": "Cartoons",
-      "isFeatured": false,
-      "isLocked": false,
-      "isActive": true,
-      "publishedAt": "2026-11-22T18:04:50Z"
-    },
-    {
-      "videoId": "xOVt34bcK_0",
-      "title": "Motu Patlu | मोटू पतलू | Episode 26 | Cross Connection",
-      "channelId": "sonic_gang",
-      "channelName": "Sonic Gang",
-      "category": "Cartoons",
-      "isFeatured": false,
-      "isLocked": false,
-      "isActive": true,
-      "publishedAt": "2026-11-22T18:03:50Z"
-    },
-    {
-      "videoId": "_66ODhGg8Bk",
-      "title": "Motu Patlu | मोटू पतलू | Episode 32 | FWWE Fight",
-      "channelId": "sonic_gang",
-      "channelName": "Sonic Gang",
-      "category": "Cartoons",
-      "isFeatured": false,
-      "isLocked": false,
-      "isActive": true,
-      "publishedAt": "2026-11-22T18:02:50Z"
-    },
-    {
-      "videoId": "ykBGogv-9O0",
-      "title": "Motu Patlu | मोटू पतलू | Episode 40 | Bhoot Bangla",
-      "channelId": "sonic_gang",
-      "channelName": "Sonic Gang",
-      "category": "Cartoons",
-      "isFeatured": false,
-      "isLocked": false,
-      "isActive": true,
-      "publishedAt": "2026-11-22T18:01:50Z"
-    },
-    {
-      "videoId": "--X5G2Lubw8",
-      "title": "Motu Patlu | मोटू पतलू | Episode 48 | Big John",
-      "channelId": "sonic_gang",
-      "channelName": "Sonic Gang",
-      "category": "Cartoons",
-      "isFeatured": false,
-      "isLocked": false,
-      "isActive": true,
-      "publishedAt": "2026-11-22T18:00:50Z"
-    },
-    {
-      "videoId": "4fmPXIve5Ig",
-      "title": "Motu Patlu | मोटू पतलू | Episode 52 | Cricket League",
-      "channelId": "sonic_gang",
-      "channelName": "Sonic Gang",
-      "category": "Cartoons",
-      "isFeatured": false,
-      "isLocked": false,
-      "isActive": true,
-      "publishedAt": "2026-11-22T17:59:50Z"
-    },
-    {
-      "videoId": "JyV5mrs2GCc",
-      "title": "Motu Patlu | मोटू पतलू | Episode 56 | Gulabi Hathi",
-      "channelId": "sonic_gang",
-      "channelName": "Sonic Gang",
-      "category": "Cartoons",
-      "isFeatured": false,
-      "isLocked": false,
-      "isActive": true,
-      "publishedAt": "2026-11-22T17:58:50Z"
-    },
-    {
-      "videoId": "Q79D8pZICZc",
-      "title": "Motu Patlu | मोटू पतलू | Episode 58 | Soul Change",
-      "channelId": "sonic_gang",
-      "channelName": "Sonic Gang",
-      "category": "Cartoons",
-      "isFeatured": false,
-      "isLocked": false,
-      "isActive": true,
-      "publishedAt": "2026-11-22T17:57:50Z"
-    },
-    {
-      "videoId": "sto4KcUwilw",
-      "title": "Motu Patlu | मोटू पतलू | Full Episode | Prince Motu",
-      "channelId": "sonic_gang",
-      "channelName": "Sonic Gang",
-      "category": "Cartoons",
-      "isFeatured": false,
-      "isLocked": false,
-      "isActive": true,
-      "publishedAt": "2026-11-22T17:56:50Z"
-    },
-    {
-      "videoId": "dBPMRuvIRIg",
-      "title": "रेगिस्तान जैसी गर्मी से बचाओ भाया!! | Motu Patlu Rajasthan Special | Motu Patlu | मोटू पतलू",
-      "channelId": "sonic_gang",
-      "channelName": "Sonic Gang",
-      "category": "Cartoons",
-      "isFeatured": false,
-      "isLocked": false,
-      "isActive": true,
-      "publishedAt": "2026-11-22T17:56:21Z",
-      "seriesId": "motu_patlu",
-      "episodeNumber": 158
-    },
-    {
-      "videoId": "c-N__ohV1P0",
-      "title": "Motu Patlu | मोटू पतलू | Full Episode | Boxing Competition",
-      "channelId": "sonic_gang",
-      "channelName": "Sonic Gang",
-      "category": "Cartoons",
-      "isFeatured": false,
-      "isLocked": false,
-      "isActive": true,
-      "publishedAt": "2026-11-22T17:55:50Z"
-    },
-    {
-      "videoId": "YLq0wCHKiUo",
-      "title": "महाराणा Motu और Patlu सा पर कबूतरों का हमला  | Motu Patlu Rajasthan Special | Motu Patlu | मोटू पतलू",
-      "channelId": "sonic_gang",
-      "channelName": "Sonic Gang",
-      "category": "Cartoons",
-      "isFeatured": false,
-      "isLocked": false,
-      "isActive": true,
-      "publishedAt": "2026-11-22T17:55:21Z",
-      "seriesId": "motu_patlu",
-      "episodeNumber": 157
-    },
-    {
-      "videoId": "bj_dMPp8xjU",
-      "title": "Motu Patlu | मोटू पतलू | Full Episode | Bin Bulaye Baraati",
-      "channelId": "sonic_gang",
-      "channelName": "Sonic Gang",
-      "category": "Cartoons",
-      "isFeatured": false,
-      "isLocked": false,
-      "isActive": true,
-      "publishedAt": "2026-11-22T17:54:50Z"
-    },
-    {
-      "videoId": "dltaoAx1SCA",
-      "title": "Tower बना Motu Patlu की मुसीबत | Motu Patlu Rajasthan Special | Motu Patlu | मोटू पतलू",
-      "channelId": "sonic_gang",
-      "channelName": "Sonic Gang",
-      "category": "Cartoons",
-      "isFeatured": false,
-      "isLocked": false,
-      "isActive": true,
-      "publishedAt": "2026-11-22T17:54:21Z",
-      "seriesId": "motu_patlu",
-      "episodeNumber": 156
-    },
-    {
-      "videoId": "qp9Moaa7dvg",
-      "title": "Motu Patlu | मोटू पतलू | Full Episode | Tuition Teacher",
-      "channelId": "sonic_gang",
-      "channelName": "Sonic Gang",
-      "category": "Cartoons",
-      "isFeatured": false,
-      "isLocked": false,
-      "isActive": true,
-      "publishedAt": "2026-11-22T17:53:50Z"
-    },
-    {
-      "videoId": "xXZ4t41d3Vw",
-      "title": "भाया आओ, तमाशा देखो! | Motu Patlu Rajasthan Special | Motu Patlu | मोटू पतलू",
-      "channelId": "sonic_gang",
-      "channelName": "Sonic Gang",
-      "category": "Cartoons",
-      "isFeatured": false,
-      "isLocked": false,
-      "isActive": true,
-      "publishedAt": "2026-11-22T17:53:21Z",
-      "seriesId": "motu_patlu",
-      "episodeNumber": 155
-    },
-    {
-      "videoId": "GCDxsBbIb1A",
-      "title": "Motu Patlu | मोटू पतलू | Full Episode | Dragon Motu",
-      "channelId": "sonic_gang",
-      "channelName": "Sonic Gang",
-      "category": "Cartoons",
-      "isFeatured": false,
-      "isLocked": false,
-      "isActive": true,
-      "publishedAt": "2026-11-22T17:52:50Z"
-    },
-    {
-      "videoId": "4tkUNttPYvE",
-      "title": "जिसकी Photo खींची, वो हुआ गायब! | Motu Patlu Rajasthan Special | Motu Patlu | मोटू पतलू",
-      "channelId": "sonic_gang",
-      "channelName": "Sonic Gang",
-      "category": "Cartoons",
-      "isFeatured": false,
-      "isLocked": false,
-      "isActive": true,
-      "publishedAt": "2026-11-22T17:52:21Z",
-      "seriesId": "motu_patlu",
-      "episodeNumber": 154
-    },
-    {
-      "videoId": "NAY0YvubImM",
-      "title": "Motu Patlu | मोटू पतलू | Full Episode | Old Car Auction",
-      "channelId": "sonic_gang",
-      "channelName": "Sonic Gang",
-      "category": "Cartoons",
-      "isFeatured": false,
-      "isLocked": false,
-      "isActive": true,
-      "publishedAt": "2026-11-22T17:51:50Z"
-    },
-    {
-      "videoId": "Qumj2LHV3KA",
-      "title": "क्या हाल हो गया बेचारे Ghasitaram का! | Motu Patlu Rajasthan Special | Motu Patlu | मोटू पतलू",
-      "channelId": "sonic_gang",
-      "channelName": "Sonic Gang",
-      "category": "Cartoons",
-      "isFeatured": false,
-      "isLocked": false,
-      "isActive": true,
-      "publishedAt": "2026-11-22T17:51:21Z",
-      "seriesId": "motu_patlu",
-      "episodeNumber": 153
-    },
-    {
-      "videoId": "LCqIBwkeSu8",
-      "title": "Motu Patlu | मोटू पतलू | Full Episode | Sleepy Motu",
-      "channelId": "sonic_gang",
-      "channelName": "Sonic Gang",
-      "category": "Cartoons",
-      "isFeatured": false,
-      "isLocked": false,
-      "isActive": true,
-      "publishedAt": "2026-11-22T17:50:50Z"
-    },
-    {
-      "videoId": "wtIKcSuZ57Q",
-      "title": "Motu के सपनों पर हुआ कब्जा!! | Motu Patlu Rajasthan Special | Motu Patlu | मोटू पतलू",
-      "channelId": "sonic_gang",
-      "channelName": "Sonic Gang",
-      "category": "Cartoons",
-      "isFeatured": false,
-      "isLocked": false,
-      "isActive": true,
-      "publishedAt": "2026-11-22T17:50:21Z",
-      "seriesId": "motu_patlu",
-      "episodeNumber": 152
-    },
     {
       "videoId": "ju-YLBLD0Ws",
       "title": "Motu Patlu | मोटू पतलू | Full Episode | Mobike Ride",
@@ -762,7 +429,9 @@
       "isFeatured": false,
       "isLocked": false,
       "isActive": true,
-      "publishedAt": "2026-11-22T17:34:50Z"
+      "publishedAt": "2026-11-22T17:34:50Z",
+      "seriesId": "motu_patlu",
+      "episodeNumber": 158
     },
     {
       "videoId": "DITfyAKzYVg",
@@ -786,7 +455,9 @@
       "isFeatured": false,
       "isLocked": false,
       "isActive": true,
-      "publishedAt": "2026-11-22T17:33:50Z"
+      "publishedAt": "2026-11-22T17:33:50Z",
+      "seriesId": "motu_patlu",
+      "episodeNumber": 157
     },
     {
       "videoId": "s33IxvrTCMo",
@@ -810,7 +481,9 @@
       "isFeatured": false,
       "isLocked": false,
       "isActive": true,
-      "publishedAt": "2026-11-22T17:32:50Z"
+      "publishedAt": "2026-11-22T17:32:50Z",
+      "seriesId": "motu_patlu",
+      "episodeNumber": 156
     },
     {
       "videoId": "crsgZNbAO1Y",
@@ -834,7 +507,9 @@
       "isFeatured": false,
       "isLocked": false,
       "isActive": true,
-      "publishedAt": "2026-11-22T17:31:50Z"
+      "publishedAt": "2026-11-22T17:31:50Z",
+      "seriesId": "motu_patlu",
+      "episodeNumber": 155
     },
     {
       "videoId": "QY9VmkY5cFo",
