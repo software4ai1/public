@@ -1,6 +1,6 @@
 {
-  "version": 4,
-  "updatedAt": "2026-11-22T13:04:42Z",
+  "version": 5,
+  "updatedAt": "2026-11-22T13:06:40Z",
   "channels": [
     {
       "id": "sonic_gang",
@@ -46,7 +46,7 @@
       "channelName": "Sonic Gang",
       "category": "Cartoons",
       "isFeatured": true,
-      "isLocked": true,
+      "isLocked": false,
       "isActive": true,
       "publishedAt": "2026-11-22T13:04:30Z"
     },
