@@ -1,6 +1,6 @@
 {
-  "version": 21,
-  "updatedAt": "2026-11-22T18:25:00Z",
+  "version": 22,
+  "updatedAt": "2026-11-22T18:26:19Z",
   "channels": [
     {
       "id": "sonic_gang",
@@ -60,17 +60,6 @@
     }
   ],
   "videos": [
-    {
-      "videoId": "ju-YLBLD0Ws",
-      "title": "Motu Patlu | मोटू पतलू | Full Episode | Mobike Ride",
-      "channelId": "sonic_gang",
-      "channelName": "Sonic Gang",
-      "category": "Cartoons",
-      "isFeatured": false,
-      "isLocked": false,
-      "isActive": true,
-      "publishedAt": "2026-11-22T17:49:50Z"
-    },
     {
       "videoId": "-GCMuPkssKk",
       "title": "John भाया! पधारो Motu के देस 🙏 | Motu Patlu Rajasthan Special | Motu Patlu | मोटू पतलू",
