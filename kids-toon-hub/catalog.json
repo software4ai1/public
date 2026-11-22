@@ -1,40 +1,61 @@
 {
-  "version": 9,
-  "updatedAt": "2026-11-22T13:44:22Z",
+  "version": 10,
+  "updatedAt": "2026-11-22T14:31:07Z",
   "channels": [
     {
       "id": "sonic_gang",
       "name": "Sonic Gang",
       "handle": "@Sonic-Gang",
       "order": 0,
-      "isActive": true
+      "isActive": true,
+      "avatarUrl": "https://yt3.googleusercontent.com/vBUO_3UvuwLZ6ktiOKHmVAkbP7TYlzxjdhPeVikN3ahPiX1Subr6N856IXFnYoYA-nUjwKeiCQ=s176-c-k-c0x00ffffff-no-rj"
     },
     {
       "id": "kidztoons",
       "name": "Kidztoons Cartoons",
       "handle": "@KidztoonsCartoons",
       "order": 1,
-      "isActive": true
+      "isActive": true,
+      "avatarUrl": "https://yt3.googleusercontent.com/o1yi3_MWwbzEhwmVYSVdydM0Z2H2_q1x8fjeqYL9_jrMVrOt4SvWnsKVberjIFLEix0FWZFGcQ=s176-c-k-c0x00ffffff-no-rj"
     },
     {
       "id": "bindaas_tv",
       "name": "Bindaas Tv Funny Comedy Stories",
       "handle": "@BindaasTvFunnyComedyStories",
       "order": 2,
-      "isActive": true
+      "isActive": true,
+      "avatarUrl": "https://yt3.googleusercontent.com/ytc/AIdro_k7WiKFjBREB3yESGhWGPNztzFSI2rIaBs9XwDMyVdLRg=s176-c-k-c0x00ffffff-no-rj"
     },
     {
       "id": "zappy_toons",
       "name": "Zappy Toons",
       "handle": "@zappytoons",
       "order": 3,
-      "isActive": true
+      "isActive": true,
+      "avatarUrl": "https://yt3.googleusercontent.com/TXHK5qQIr9Zgh7tpyfZ9JG8sKcbTdfUuyMWukYjKLVSnp5ZuOV9Tal4mW25FczTlEIaA2HoJ=s176-c-k-c0x00ffffff-no-rj"
     },
     {
       "id": "natkhat_bobo",
       "name": "Natkhat Bobo",
       "handle": "@natkhat_bobo",
       "order": 4,
+      "isActive": true,
+      "avatarUrl": "https://yt3.googleusercontent.com/hT85ommKohMAAwiebQiAgrhnYxxpBfRIBrP1eZWueUQts6Dzm4oCzqGxbgKzU3eeMsFZ0W94sbk=s176-c-k-c0x00ffffff-no-rj"
+    }
+  ],
+  "series": [
+    {
+      "id": "motu_patlu",
+      "title": "Motu Patlu Episodes",
+      "channelId": "sonic_gang",
+      "order": 0,
+      "isActive": true
+    },
+    {
+      "id": "shiva",
+      "title": "Shiva Episodes",
+      "channelId": "sonic_gang",
+      "order": 1,
       "isActive": true
     }
   ],
@@ -46,9 +67,11 @@
       "channelName": "Sonic Gang",
       "category": "Cartoons",
       "isFeatured": true,
-      "isLocked": true,
+      "isLocked": false,
       "isActive": true,
-      "publishedAt": "2026-11-22T13:04:30Z"
+      "publishedAt": "2026-11-22T13:04:30Z",
+      "seriesId": "motu_patlu",
+      "episodeNumber": 3
     },
     {
       "videoId": "qKYk2R7IDYY",
@@ -68,9 +91,11 @@
       "channelName": "Sonic Gang",
       "category": "Cartoons",
       "isFeatured": false,
-      "isLocked": true,
+      "isLocked": false,
       "isActive": true,
-      "publishedAt": "2026-11-22T12:30:09Z"
+      "publishedAt": "2026-11-22T12:30:09Z",
+      "seriesId": "motu_patlu",
+      "episodeNumber": 2
     },
     {
       "videoId": "j894zlzzHWg",
@@ -79,9 +104,11 @@
       "channelName": "Sonic Gang",
       "category": "Cartoons",
       "isFeatured": false,
-      "isLocked": true,
+      "isLocked": false,
       "isActive": true,
-      "publishedAt": "2026-11-22T11:30:17Z"
+      "publishedAt": "2026-11-22T11:30:17Z",
+      "seriesId": "shiva",
+      "episodeNumber": 2
     },
     {
       "videoId": "keL2XMHwFZY",
@@ -90,7 +117,7 @@
       "channelName": "Sonic Gang",
       "category": "Cartoons",
       "isFeatured": false,
-      "isLocked": true,
+      "isLocked": false,
       "isActive": true,
       "publishedAt": "2026-11-22T09:30:08Z"
     },
@@ -103,7 +130,9 @@
       "isFeatured": false,
       "isLocked": false,
       "isActive": true,
-      "publishedAt": "2026-11-22T07:30:32Z"
+      "publishedAt": "2026-11-22T07:30:32Z",
+      "seriesId": "motu_patlu",
+      "episodeNumber": 1
     },
     {
       "videoId": "Iz2PLeTnvtY",
@@ -125,7 +154,9 @@
       "isFeatured": false,
       "isLocked": false,
       "isActive": true,
-      "publishedAt": "2026-11-22T06:30:32Z"
+      "publishedAt": "2026-11-22T06:30:32Z",
+      "seriesId": "shiva",
+      "episodeNumber": 1
     },
     {
       "videoId": "uXQV_W2uEio",
