@@ -1,13 +1,13 @@
 {
-  "version": 17,
-  "updatedAt": "2026-11-22T18:20:30Z",
+  "version": 18,
+  "updatedAt": "2026-11-22T18:20:57Z",
   "channels": [
     {
       "id": "sonic_gang",
       "name": "Sonic Gang",
       "handle": "@Sonic-Gang",
       "order": 0,
-      "isActive": true,
+      "isActive": false,
       "avatarUrl": "https://yt3.googleusercontent.com/vBUO_3UvuwLZ6ktiOKHmVAkbP7TYlzxjdhPeVikN3ahPiX1Subr6N856IXFnYoYA-nUjwKeiCQ=s176-c-k-c0x00ffffff-no-rj"
     },
     {
