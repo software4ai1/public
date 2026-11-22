@@ -1,6 +1,6 @@
 {
-  "version": 10,
-  "updatedAt": "2026-11-22T14:31:07Z",
+  "version": 11,
+  "updatedAt": "2026-11-22T14:39:46Z",
   "channels": [
     {
       "id": "sonic_gang",
@@ -159,6 +159,58 @@
       "episodeNumber": 1
     },
     {
+      "videoId": "a_TgOqZ_h1E",
+      "title": "John के असली और नकली चेहरे! | Motu Patlu | Motu Patlu | मोटू पतलू",
+      "channelId": "sonic_gang",
+      "channelName": "Sonic Gang",
+      "category": "Cartoons",
+      "isFeatured": false,
+      "isLocked": false,
+      "isActive": true,
+      "publishedAt": "2026-11-21T08:30:21Z",
+      "seriesId": "motu_patlu",
+      "episodeNumber": 8
+    },
+    {
+      "videoId": "HPNp9yNL4C4",
+      "title": "टूटी हुई मूर्ति को मिला First Prize | Motu Patlu | Motu Patlu | मोटू पतलू",
+      "channelId": "sonic_gang",
+      "channelName": "Sonic Gang",
+      "category": "Cartoons",
+      "isFeatured": false,
+      "isLocked": false,
+      "isActive": true,
+      "publishedAt": "2026-11-21T07:30:22Z",
+      "seriesId": "motu_patlu",
+      "episodeNumber": 7
+    },
+    {
+      "videoId": "WUTVR2RcNGE",
+      "title": "Motu Wins First Prize at Flower Competition | Motu Patlu | मोटू पतलू",
+      "channelId": "sonic_gang",
+      "channelName": "Sonic Gang",
+      "category": "Cartoons",
+      "isFeatured": false,
+      "isLocked": false,
+      "isActive": true,
+      "publishedAt": "2026-11-20T08:30:27Z",
+      "seriesId": "motu_patlu",
+      "episodeNumber": 6
+    },
+    {
+      "videoId": "XwCtOePzUAw",
+      "title": "भूतों से डरे चिंगम और चायवाला | Motu Patlu | मोटू पतलू",
+      "channelId": "sonic_gang",
+      "channelName": "Sonic Gang",
+      "category": "Cartoons",
+      "isFeatured": false,
+      "isLocked": false,
+      "isActive": true,
+      "publishedAt": "2026-11-20T07:30:31Z",
+      "seriesId": "motu_patlu",
+      "episodeNumber": 5
+    },
+    {
       "videoId": "uXQV_W2uEio",
       "title": "Meri Gaiya Aati hai | Do Chuhe The | Gubbare wala | Hindi Nursery Rhymes & Kids Songs | Balgeet Poem",
       "channelId": "natkhat_bobo",
@@ -168,6 +220,19 @@
       "isLocked": false,
       "isActive": true,
       "publishedAt": "2026-11-20T03:49:57Z"
+    },
+    {
+      "videoId": "k7Q1pOMiOVE",
+      "title": "जॉन का शैतानी Plan: Free में खाएगा Pizza | Motu Patlu | मोटू पतलू",
+      "channelId": "sonic_gang",
+      "channelName": "Sonic Gang",
+      "category": "Cartoons",
+      "isFeatured": false,
+      "isLocked": false,
+      "isActive": true,
+      "publishedAt": "2026-11-19T08:30:07Z",
+      "seriesId": "motu_patlu",
+      "episodeNumber": 4
     },
     {
       "videoId": "cw_tKpWlwzc",
