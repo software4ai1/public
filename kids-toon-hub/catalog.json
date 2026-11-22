@@ -1,44 +1,62 @@
 {
-  "version": 3,
-  "updatedAt": "2026-11-22T13:01:16Z",
+  "version": 4,
+  "updatedAt": "2026-11-22T13:04:42Z",
   "channels": [
+    {
+      "id": "sonic_gang",
+      "name": "Sonic Gang",
+      "handle": "@Sonic-Gang",
+      "order": 0,
+      "isActive": true
+    },
     {
       "id": "kidztoons",
       "name": "Kidztoons Cartoons",
       "handle": "@KidztoonsCartoons",
-      "order": 0,
+      "order": 1,
       "isActive": true
     },
     {
       "id": "bindaas_tv",
       "name": "Bindaas Tv Funny Comedy Stories",
       "handle": "@BindaasTvFunnyComedyStories",
-      "order": 1,
+      "order": 2,
       "isActive": true
     },
     {
       "id": "zappy_toons",
       "name": "Zappy Toons",
       "handle": "@zappytoons",
-      "order": 2,
+      "order": 3,
       "isActive": true
     },
     {
       "id": "natkhat_bobo",
       "name": "Natkhat Bobo",
       "handle": "@natkhat_bobo",
-      "order": 3,
+      "order": 4,
       "isActive": true
     }
   ],
   "videos": [
+    {
+      "videoId": "zMck8auMVXs",
+      "title": "5-Star Hotel Mein Motu Patlu Ka Bawaal! | Motu Patlu | मोटू पतलू",
+      "channelId": "sonic_gang",
+      "channelName": "Sonic Gang",
+      "category": "Cartoons",
+      "isFeatured": true,
+      "isLocked": true,
+      "isActive": true,
+      "publishedAt": "2026-11-22T13:04:30Z"
+    },
     {
       "videoId": "uXQV_W2uEio",
       "title": "Meri Gaiya Aati hai | Do Chuhe The | Gubbare wala | Hindi Nursery Rhymes & Kids Songs | Balgeet Poem",
       "channelId": "natkhat_bobo",
       "channelName": "Natkhat Bobo",
       "category": "Rhymes",
-      "isFeatured": true,
+      "isFeatured": false,
       "isLocked": false,
       "isActive": true,
       "publishedAt": "2026-11-20T03:49:57Z"
