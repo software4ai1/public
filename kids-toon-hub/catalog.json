@@ -1,6 +1,6 @@
 {
-  "version": 28,
-  "updatedAt": "2026-11-22T18:36:25Z",
+  "version": 29,
+  "updatedAt": "2026-11-22T18:38:18Z",
   "channels": [
     {
       "id": "sonic_gang",
@@ -8450,7 +8450,7 @@
       "channelName": "Zappy Toons",
       "category": "Rhymes",
       "isFeatured": false,
-      "isLocked": false,
+      "isLocked": true,
       "isActive": true,
       "publishedAt": "2026-11-18T11:30:19Z"
     },
